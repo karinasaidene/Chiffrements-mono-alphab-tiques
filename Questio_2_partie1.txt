@@ -1,0 +1,4 @@
+Aprés avoir générer 3 histogrammes de 3 textes differents de la langue française, 
+on remarque que la lettre la plus fréquente dans cette langue est la lettre E suivie de la lettre A 
+en terme d'apparition.
+Contrairement aux lettres J K W X Y Z qui sont les moins utilisées.

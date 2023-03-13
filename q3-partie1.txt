@@ -1,0 +1,6 @@
+les textes qui sont dans la meme langue sont les suivants : 
+texte 7 et texte 9
+texte 3 et texte 4
+texte 10 et texte 6
+texte 1 et texte 5
+texte 2 et texte 8
